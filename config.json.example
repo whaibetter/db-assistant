@@ -1,0 +1,6 @@
+{
+  "connections": {
+    "default": "mysql://user:password@localhost:3306/mydb",
+    "production": "mysql://user:password@production-host:3306/proddb"
+  }
+}

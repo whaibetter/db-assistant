@@ -1,0 +1,7 @@
+{
+  "connections": {
+    "default": "mysql://root:test123@localhost:3306/testdb1",
+    "test1": "mysql://root:test123@localhost:3306/testdb1",
+    "test2": "mysql://root:test123@localhost:3307/testdb2"
+  }
+}
